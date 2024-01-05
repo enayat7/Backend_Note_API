@@ -22,6 +22,9 @@
 
 # BASE_URL = http://localhost:8000/api/v1/users
 
+# for testing you can run command 
+# npx jest test.js
+
 # routes
 
 # router.route("/register").post(...)  {
